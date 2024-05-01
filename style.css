@@ -1,3 +1,5 @@
+  /* code credited to Matt pasintino*/
+
 .banner{
     background: url("images/coding2.jpeg");
     height: 100vh;
@@ -89,30 +91,24 @@
   
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   /* code credited to Matt pasintino*/
 
 
 
+/* mineeeee*/
 
 
+body{
+  background: #0d285b;
+  color:white;
+}
 
-
-
-
-
+.centerlist{
+  align-items: center;
+  display: inline-block;
+  text-align: left;
+ 
+}
 
 
 
