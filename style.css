@@ -1,5 +1,5 @@
 .banner{
-    background: url("");
+    background: url("images/coding2.jpeg");
     height: 100vh;
     width: 100%;
     background-size: cover;
@@ -11,12 +11,14 @@
     justify-content: center;
     align-items: center;
     background-blend-mode: overlay;
-    background-color: #010202be;
     color: white;
     background-attachment: fixed;
   } 
   
-  
+  .navbar{
+    background-color: transparent;
+    color:black;
+  }
   
   image {
     position: relative;
