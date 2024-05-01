@@ -14,6 +14,23 @@
     color: white;
     background-attachment: fixed;
   } 
+
+  .banner2  {
+   background: url("images/IMG_3298.JPG");
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-blend-mode: overlay;
+  color: white;
+  background-attachment: fixed;
+} 
   
   .navbar{
     background-color: transparent;
