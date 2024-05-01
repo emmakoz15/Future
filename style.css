@@ -34,12 +34,8 @@
   background-attachment: fixed;
 } 
   
-  .navbar{
-    background-color: transparent;
-    color:white !important;
-  }
-  
-  image {
+
+  .image {
     position: relative;
    
   }
@@ -114,7 +110,19 @@ body{
  
 }
 
-
+.navbar{
+  background-color: transparent;
+  color:white !important;
+}
+.text-color{
+  color:white;
+}
+.navbar-toggler{
+  background: url('images/icons8-menu-50.png');
+}
+.--bs-navbar-brand-color{
+  color:white !important;
+}
 
 
 
